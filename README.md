@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-Hi 👋 I'm Najm Alzorqah <br>I'm in my second year in University 🌠 <br> I'm Front-end Developer </>
+Hi 👋 I'm Najm Alzorqah<br>I'm in my second year in University 🌠<br>I'm Front-end Developer </>
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/najmzorqah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/najm_z1)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/najmzorqah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/najm_z1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/najm_z1)
 
 # 💻 Tech Stack:
 
@@ -12,16 +12,14 @@ Hi 👋 I'm Najm Alzorqah <br>I'm in my second year in University 🌠 <br> I'm 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=NajmAlzorqah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NajmAlzorqah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmAlzorqah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=NajmAlzorqah&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NajmAlzorqah&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmAlzorqah&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
