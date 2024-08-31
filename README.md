@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Najm Alzorqah]
+# Hi there! 👋 I'm Najm Alzorqah
 
 ### 💻 About Me
 - **IT Student** | Aspiring Software Engineer.
