@@ -19,11 +19,8 @@
 
 ### 📂 Featured Repositories
 - [Belleville Dental](https://github.com/NajmAlzorqah/belleville-dental-react-eproject): A web application developed using React JS for managing a dental clinic's online presence. This project was created as part of the CPISM course at Aptech Worldwide, focusing on building a responsive and user-friendly interface for patients to book appointments, view services, and get in touch with the clinic. 
-- [Awesome Project 2](https://github.com/yourusername/repo2): A detailed description of this project.
-- [Awesome Project 3](https://github.com/yourusername/repo3): A detailed description of this project.
 
 ### 📊 GitHub Stats
-![NajmAlzorqah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NajmAlzorqah&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmAlzorqah&layout=compact&theme=radical)
 
 ### 🏆 Achievements
