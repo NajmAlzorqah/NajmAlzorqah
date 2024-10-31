@@ -2,14 +2,14 @@
 
 ### 💻 About Me
 - **IT Student** | Aspiring Software Engineer.
-- Experienced in **C, C++, Java, JavaScript, ReactJS, SQL,** and **C#**.
-- Passionate about **Android development** with **Flutter** and **React Native**.
+- Experienced in **Java, JavaScript, ReactJS, SQL,** and **C#**.
+- Passionate about **Android development** with **Flutter** .
 - Currently diving into **data structures, algorithms,** and **mobile application development**.
 
 ### 🛠️ Technologies & Tools
 - **Languages:** C, C++, Java, JavaScript, SQL, C#
-- **Frameworks/Libraries:** ReactJS
-- **Tools:** IntelliJ IDEA, Visual Studio, SQL Server, Visual Studio Code, WSL, Apache NetBeans
+- **Frameworks/Libraries:** ReactJS, NextJs
+- **Tools:** IntelliJ IDEA, Visual Studio, WebStorm, SQL Server, Visual Studio Code, WSL, Apache NetBeans
 - **Platforms:** Android, Windows, Linux
 
 ### 🌱 Learning Journey
