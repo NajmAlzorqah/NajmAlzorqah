@@ -2,14 +2,14 @@
 
 ### 💻 About Me
 - **IT Student** | Aspiring Software Engineer.
-- Experienced in **Java, JavaScript, ReactJS, SQL,** and **C#**.
+- Experienced in **Java, Jakarta EE, Spring Boot, JavaScript, ReactJS, NextJS, and SQL,.
 - Passionate about **Android development** with **Flutter** .
 - Currently diving into **data structures, algorithms,** and **mobile application development**.
 
 ### 🛠️ Technologies & Tools
 - **Languages:** C, C++, Java, JavaScript, SQL, C#
-- **Frameworks/Libraries:** ReactJS, NextJs
-- **Tools:** IntelliJ IDEA, Visual Studio, WebStorm, SQL Server, Visual Studio Code, WSL, Apache NetBeans
+- **Frameworks/Libraries:** ReactJS, NextJs, Spring Boot , JavaFX
+- **Tools:** IntelliJ IDEA, Visual Studio, WebStorm, SQL Server, Visual Studio Code, WSL, Apache NetBeans, Spring Tool Suite, Eclips IDE.
 - **Platforms:** Android, Windows, Linux
 
 ### 🌱 Learning Journey
@@ -20,8 +20,6 @@
 ### 📂 Featured Repositories
 - [Belleville Dental](https://github.com/NajmAlzorqah/belleville-dental-react-eproject): A web application developed using React JS for managing a dental clinic's online presence. This project was created as part of the CPISM course at Aptech Worldwide, focusing on building a responsive and user-friendly interface for patients to book appointments, view services, and get in touch with the clinic. 
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmAlzorqah&layout=compact&theme=radical)
 
 ### 🏆 Achievements
 - **Certified in CPISM**: Successfully completed the CPISM course at Aptech Worldwide, earning a certification for demonstrated proficiency in software development and project management.
