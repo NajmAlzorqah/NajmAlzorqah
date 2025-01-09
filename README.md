@@ -9,7 +9,7 @@
 ### 🛠️ Technologies & Tools
 - **Languages:** C, C++, Java, JavaScript, SQL, C#
 - **Frameworks/Libraries:** ReactJS, NextJs, Spring Boot , JavaFX
-- **Tools:** IntelliJ IDEA, Visual Studio, WebStorm, SQL Server, Visual Studio Code, WSL, Apache NetBeans, Spring Tool Suite, Eclips IDE.
+- **Tools:** IntelliJ IDEA, Visual Studio, WebStorm, SQL Server, Visual Studio Code, WSL, Apache NetBeans, Spring Tool Suite, Eclipse IDE, Android Studio.
 - **Platforms:** Android, Windows, Linux
 
 ### 🌱 Learning Journey
