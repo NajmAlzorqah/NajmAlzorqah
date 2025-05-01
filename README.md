@@ -1,29 +1,35 @@
-# Hi there! 👋 I'm Najm Alzorqah
+# 👋 Hey there, I'm Najm Aldeen!
 
-### 💻 About Me
-- **IT Student** | Aspiring Software Engineer.
-- Experienced in **Java, Jakarta EE, Spring Boot, JavaScript, ReactJS, NextJS, and SQL,.
-- Passionate about **Android development** with **Flutter** .
-- Currently diving into **data structures, algorithms,** and **mobile application development**.
+🎓 Third-year IT student | 💻 Front-End Enthusiast | 🚀 Aspiring Software Engineer
 
-### 🛠️ Technologies & Tools
-- **Languages:** C, C++, Java, JavaScript, SQL, C#
-- **Frameworks/Libraries:** ReactJS, NextJs, Spring Boot , JavaFX
-- **Tools:** IntelliJ IDEA, Visual Studio, WebStorm, SQL Server, Visual Studio Code, WSL, Apache NetBeans, Spring Tool Suite, Eclipse IDE, Android Studio.
-- **Platforms:** Android, Windows, Linux
+I break things (just enough to fix them better), build UIs that don’t scream, and work with APIs like we’ve been lifelong friends. I'm passionate about turning ideas into interactive experiences — fast, clean, and responsive.
 
-### 🌱 Learning Journey
-- 📚 Expanding my knowledge in **data structures** and **algorithms**.
-- 🌍 Exploring **operating systems**, **networking**, and **Linux**.
-- 🎓 Engaged in hands-on projects as part of my university coursework.
+## ⚡ Tech Stack
+- 💡 Languages: JavaScript, TypeScript, Java, SQL
+- 🧰 Frameworks & Tools: React.js, Next.js, Spring Boot, JavaFX
+- 📦 Extras: REST APIs, React Query, Zustand, Chakra UI, Framer Motion, Git, DSA, Unit Testing (JS)
 
-### 📂 Featured Repositories
-- [Belleville Dental](https://github.com/NajmAlzorqah/belleville-dental-react-eproject): A web application developed using React JS for managing a dental clinic's online presence. This project was created as part of the CPISM course at Aptech Worldwide, focusing on building a responsive and user-friendly interface for patients to book appointments, view services, and get in touch with the clinic. 
+## 📂 Featured Repositories
 
+### 🎮 [Game List](https://github.com/NajmAlzorqah/game-list)
+A lightning-fast game discovery app powered by the [RAWG API](https://rawg.io/apidocs).  
+Built with React 19, Vite, Chakra UI, Zustand, and React Query. Features infinite scrolling, theme switching, API caching, and sleek UI animations.  
+Because browsing 350,000+ games should be *fun* and *blazing fast*.
 
-### 🏆 Achievements
-- **Certified in CPISM**: Successfully completed the CPISM course at Aptech Worldwide, earning a certification for demonstrated proficiency in software development and project management.
+### 🦷 [Belleville Dental](https://github.com/NajmAlzorqah/belleville-dental-react-eproject)
+A full-featured dental clinic website — for humans, not tooth fairies.  
+Created as part of my CPISM course using React JS. Patients can book appointments, browse services, and contact the clinic with ease.
 
-### 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/najm-alzorqah/)
-- [Email](najmalzorqah@gmail.com)
+## 🌱 Currently Learning
+- Sharpening my Spring Boot & backend development
+- Mastering clean code & component-based architecture
+- Diving deeper into advanced TypeScript & design systems
+
+## 🧠 Fun Facts
+- 🧩 I love solving coding puzzles and optimizing things just for the thrill of it.
+- 📱 I like building things that look good on both 32" monitors and tiny phone screens.
+- 🕹️ I built a gaming app — and yes, I tested it thoroughly... for research, of course.
+
+---
+
+Let’s build something awesome together! 🚀
