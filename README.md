@@ -11,12 +11,12 @@ I'm a Frontend Developer who builds fast, scalable, and intuitive web applicatio
 My work is centered on performance, scalability, and user experience.
 
 
-### 🎮 GameList — High-Performance Game Discovery
+### 🎮 [GameList — High-Performance Game Discovery](https://najm-gamelist-19.vercel.app/)
 *   **Challenge:** How do you let users browse over 350,000 game records from an external API without a slow, clunky interface?
 *   **Solution:** I built a lightning-fast discovery platform using **React 19** and **Vite**. I implemented advanced caching with **React Query** and infinite scrolling to create a seamless, uninterrupted user experience.
 *   **Tech:** `React 19` `Vite` `React Query` `Zustand` `TypeScript`
 
-### 🏆 YCDirectory — Dynamic Startup Pitch Platform
+### 🏆 [YCDirectory — Dynamic Startup Pitch Platform](https://najm-startup-ideas.vercel.app/)
 *   **Challenge:** Develop a secure, dynamic, and fast platform for a startup competition with features like voting and content submission.
 *   **Solution:** I engineered a platform using **Next.js 15** for optimal performance, achieving **30% faster page loads**. I integrated **GitHub OAuth** for secure authentication and a headless CMS (**Sanity**) for dynamic content management.
 *   **Tech:** `React 19` `Next.js 15` `Tailwind CSS` `OAuth` `Sanity.io`
