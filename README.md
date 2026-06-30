@@ -24,7 +24,7 @@ My work focuses on **performance**, **scalability**, and **exceptional user expe
 
 ---
 
-### 🏨 [Hotel Management System — Enterprise-Grade Full-Stack App]()
+### 🏨 [Hotel Management System — Enterprise-Grade Full-Stack App](https://najm-hotel.vercel.app/)
 *   **Challenge:** Develop a scalable, all-in-one system for managing hotel operations — from bookings and billing to analytics and role-based access control.
 *   **Solution:** Created a **full-stack hotel management application** that handles guest data, room booking, billing, housekeeping, and analytics with enterprise-level performance and reliability.
 *   **Highlights:**
